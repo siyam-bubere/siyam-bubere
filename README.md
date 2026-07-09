@@ -41,25 +41,6 @@ B.Tech Computer Engineering student at **Veermata Jijabai Technological Institut
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 🚀 Key Projects
-
-* **Voxel** | *React, Node.js, Express.js, Socket.io, WebRTC, MongoDB, JWT*
-  * Built a full-stack WebRTC video conferencing platform supporting real-time audio, video, and screen sharing.
-  * Designed a dynamic video grid using `ResizeObserver` for adaptive multi-participant layouts.
-  * Resolved WebRTC signaling bugs, eliminating duplicate peers and race conditions.
-
-* **Campus Connected** | *React, TypeScript, Node.js, Express.js, MongoDB Atlas, JWT, Multer*
-  * Developed a peer-to-peer student mentorship platform with role-based access control for juniors and seniors.
-  * Implemented secure authentication and authorization using custom Express middleware.
-
-* **NovaAI** | *React, Context API, Node.js, Express.js, ReactMarkdown, Katex, Vite*
-  * Built a generative AI chat application featuring a real-time streaming typewriter interface.
-  * Managed global states using React Context API to eliminate prop-drilling.
-
-* **CodeStack** | *JavaScript, CSS (Browser Extension)*
-  * Created a free browser extension that lets users append multiple code blocks across Jupyter Notebooks, Google Colab, ChatGPT, and GitHub into one master clipboard.
 
 ---
 
