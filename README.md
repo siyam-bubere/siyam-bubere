@@ -74,6 +74,6 @@ B.Tech Computer Engineering student at **Veermata Jijabai Technological Institut
 ---
 
 ## 📫 How to Reach Me
-* **LinkedIn**: [linkedin.com/in/siyambubere](https://www.linkedin.com)
+* **LinkedIn**: [linkedin.com/in/siyam-bubere](https://www.linkedin.com)
 * **GitHub**: [github.com/siyam-bubere](https://github.com/siyam-bubere)
-* **Email**: [siyambubere@gmail.com](mailto:siyambubere@gmail.com)
+* **Email**: [buberesiyam@gmail.com](mailto:siyambubere@gmail.com)
