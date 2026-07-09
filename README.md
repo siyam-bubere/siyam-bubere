@@ -1,5 +1,11 @@
 # Hi there, I'm Siyam Bubere 👋
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=3b82f6&center=true&vCenter=true&width=435&lines=AI%2FML+Developer;MERN+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+  </a>
+</div>
+
 B.Tech Computer Engineering student at **Veermata Jijabai Technological Institute (VJTI)**, Mumbai (2024 - 2028). I am an aspiring **AI/ML Developer** and **Full-Stack MERN Developer** with a passion for building scalable web applications, solving complex algorithmic challenges, and exploring artificial intelligence.
 
 ---
