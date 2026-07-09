@@ -63,13 +63,6 @@ B.Tech Computer Engineering student at **Veermata Jijabai Technological Institut
 
 ---
 
-## 🏆 Achievements & Leadership
-
-* **Competitive Programming**: Solved **250+** problems across LeetCode, GeeksforGeeks, and Codeforces (Max Rating: **1008**).
-* **Team Leader (Mumbai Hacks)**: Led task delegation, sprint planning, and technical coordination for a multidisciplinary team during a 24-hour hackathon.
-* **Hackathons**: Active participant in *Mumbai Hacks* and *ThriZII*, building practical full-stack projects under competitive time constraints.
-
----
 
 ## 📊 GitHub Stats
 
